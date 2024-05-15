@@ -1,12 +1,17 @@
 # Quantum-Algorithms-for-IPR-estimation
-These notes are code implementations for the proposed algorithms in the article https://arxiv.org/abs/2405.03338, the raw data is also provided.
-
-Link to the publication:
+These notes are code implementations for the proposed algorithms in the article https://arxiv.org/abs/2405.03338, the data and figures are also provided here
 
 This repository contains:
 
-Simulation and Data for Fig.3 in PXP_data folder
+Simulation for Fig.4 in OAT.ipynb
 
-Simulation Data for Fig.4 in OAT_data folder
+Simulation for Fig.5 in PXP.ipynb
+
+Simulation for Fig.6 in AKLT.ipynb
+
+Exemplary codes and experimental data for Fig.7 in OAT_experiment folder
+
+Figures are included in Figures folder
+
 
 
