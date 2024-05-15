@@ -3,15 +3,13 @@ These notes are code implementations for the proposed algorithms in the article 
 
 This repository contains:
 
-Simulation for Fig.4 in OAT.ipynb
+Simulation and data for Fig.4 in OAT.ipynb
 
-Simulation for Fig.5 in PXP.ipynb
+Simulation and data for Fig.5 in PXP folder
 
-Simulation for Fig.6 in AKLT.ipynb
+Simulation and data for Fig.6 in AKLT folder
 
 Exemplary codes and experimental data for Fig.7 in OAT_experiment folder
-
-Figures are included in Figures folder
 
 
 
