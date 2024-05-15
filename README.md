@@ -1,5 +1,5 @@
 # Quantum-Algorithms-for-IPR-estimation
-These notes are code implementations for the proposed algorithms in article Arxiv...., the raw data is also provided.
+These notes are code implementations for the proposed algorithms in the article https://arxiv.org/abs/2405.03338, the raw data is also provided.
 
 Link to the publication:
 
